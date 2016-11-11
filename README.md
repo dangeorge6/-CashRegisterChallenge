@@ -1,0 +1,1 @@
+A coding challenge to design a cash register and return change for customers of a given amount with a given set of bill denominations in the register and a limited number of each bill. I used dynamic programming to return change for a given amount that utilized the minimum number of available bills.
